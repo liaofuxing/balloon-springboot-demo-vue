@@ -1,11 +1,11 @@
-# vue-admin-template
+#  balloon-springboot-demo-vue
 
  **项目架构不是本人开发！！** 
  **项目架构不是本人开发！！** 
  **项目架构不是本人开发！！** 
 
 本项目借鉴 [@花裤衩](http://gitee.com/panjiachen/vue-admin-template.git) 的开源项目，新增后端登录和vue动态路由，以及与后端配套的一系列功能。
-后端地址[spring cloud](https://gitees.com/liaofuxing/springcloud)
+后端地址[balloon-springboot-demo](https://gitee.com/liaofuxing/balloon-springboot-demo)
 
 ## Build Setup
 
